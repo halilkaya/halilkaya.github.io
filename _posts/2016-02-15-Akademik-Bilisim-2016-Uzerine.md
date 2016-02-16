@@ -23,7 +23,7 @@ Değinmek istediğim önemli konulardan biri de konferanslar sırasında çıkan
 
 Sonrasında arkadaşlarımızdan Neslihan “Bizler kız ya da bayan değil, kadınız. Söylemlerinizden dolayı sizi kınıyorum.” dedikten sonra yaptığının düpedüz cinsiyetçilik olduğunu, bir özür borcu olduğunu dile getirdik ancak aldığımız yanıt riyakarlığın hangi noktaya geldiğini gösterdi: “Ben mizahi bir dil kullanmak amacıyla böyle bir sunum hazırladım ve bu sunumu önce eşime, sonra da 4 farklı üniversiteye yaptım, böyle bir tepki ile karşılaşmadım.”. “Daha önce böyle bir tepki ile karşılaşmamanız yaptığınızın doğru olduğu anlamına mı geliyor?” sorumuzu da yanıtsız bırakması cabası.
 
-Olayın sosyal ağlarda ve daha sonra bazı haber platformlarında yayınlanması üzerine İlker Gökhan, Twitter üzerinden üzüntüsünü(!) paylaşıp özür diledi:
+Olayın sosyal ağlarda ve daha sonra bazı [haber](http://haber.sol.org.tr/turkiye/siemens-bilgi-teknolojileri-muduru-kizlardan-btci-olmaz-145597) platformlarında yayınlanması üzerine İlker Gökhan, Twitter üzerinden üzüntüsünü(!) paylaşıp özür diledi:
 
 ![rigokhan_tweet]({{ site.baseurl }}/images/rigokhan_tweet.png)
 
