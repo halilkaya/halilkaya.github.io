@@ -3,19 +3,19 @@ layout: post
 title: Akademik Bilişim 2016 Üzerine 
 ---
 
-Akademik Bilişim bu sene Aydın Adnan Menderes Üniversitesi’nde düzenlendi. LibreOffice’den Bilişim Hukuku’na, Ruby’den PostgreSQL’e 35 farklı konu üzerine eğitimler verildi.
+[Akademik Bilişim](http://ab.org.tr) bu sene Aydın Adnan Menderes Üniversitesi’nde düzenlendi. LibreOffice’den Bilişim Hukuku’na, Ruby’den PostgreSQL’e [35 farklı konu](http://ab.org.tr/ab16/kurs.html) üzerine eğitimler verildi.
 
-Ben bu sene Android Uygulama Geliştirme eğitimi verdim. Bu konu üzerine iki sınıf açılmıştı ancak başvurular çok fazla olduğu için elemek zorunda kaldık. Umarım seneye daha fazla eğitmen ile daha fazla kişiyle buluşabiliriz.
+Ben bu sene [Android Uygulama Geliştirme](http://ab.org.tr/ab16/kursdir/android.html) eğitimi verdim. Bu konu üzerine iki sınıf açılmıştı ancak başvurular çok fazla olduğu için elemek zorunda kaldık. Umarım seneye daha fazla eğitmen ile daha fazla kişiyle buluşabiliriz.
 
-Kursun ilk günü öğle arasına kadar Özgür Yazılım Felsefesi üzerine sohbet ettik. Bu bilinci oturtmamızın teknik bilgiden önce geldiğini düşünüyorum çünkü böyle bir organizasyonda kendimizi geliştirme fırsatı bulabiliyorsak bunu bu camiadaki insanların bakış açılarına ve emeklerine borçluyuz. Lafı gelmişken her sene büyük özveriyle bizlere bu fırsatı sunan öncelikle Mustafa Akgül hocama, daha sonra Necdet Yücel hocama ve emeği geçen herkese ayrı ayrı teşekkür ediyorum.
+Kursun ilk günü öğle arasına kadar [Özgür Yazılım Felsefesi](https://www.gnu.org/philosophy/) üzerine sohbet ettik. Bu bilinci oturtmamızın teknik bilgiden önce geldiğini düşünüyorum çünkü böyle bir organizasyonda kendimizi geliştirme fırsatı bulabiliyorsak bunu bu camiadaki insanların bakış açılarına ve emeklerine borçluyuz. Lafı gelmişken her sene büyük özveriyle bizlere bu fırsatı sunan öncelikle Mustafa Akgül hocama, daha sonra Necdet Yücel hocama ve emeği geçen herkese ayrı ayrı teşekkür ediyorum.
 
-Teknik tarafta, Android üzerinde bir uygulama geliştirmek için temel maddeleri esas almaya çalıştık. Tasarım tarafından başlayarak tasarımda kullandığımız bileşenleri Java tarafında nasıl işleyebileceğimizi öğrenirken kurs sonrasında referans olarak alabileceğimiz örnek bir uygulama geliştirdik ve bunu özgür yazılım lisansı ile açtık. Buradan ulaşabilirsiniz.
+Teknik tarafta, Android üzerinde bir uygulama geliştirmek için temel maddeleri esas almaya çalıştık. Tasarım tarafından başlayarak tasarımda kullandığımız bileşenleri Java tarafında nasıl işleyebileceğimizi öğrenirken kurs sonrasında referans olarak alabileceğimiz örnek bir uygulama geliştirdik ve bunu özgür yazılım lisansı ile açtık. [Buradan ulaşabilirsiniz](https://github.com/halilkaya/ab2016-1).
 
 Bu arada ufak bir ricam var; hem kurslardan sonra arkamızda bir şeyler bırakmak amacıyla, hem de minnet duygusuyla yazdığınız uygulamaları / yaptığınız işleri özgür olarak insanlarla paylaşmaktan çekinmeyin. Eğer bu insanlardan bir şeyler alıp kendimize katıyorsak, aynı şekilde kendimizi geliştirdiğimizde de yeni gelen insanlara faydalı olmak için bilgilerimizi onlarla paylaşmalıyız. Ancak bunu yaparsak bu tarz etkinlikler-eğitimler uzun sürebilir. Ayrıca bu vesile ile bilgileriyle kendimizi geliştirdiğimiz insanlara olan minnet borcumuzu da ödemiş oluruz.
 
 Eğitmen olarak gelmesem, öğrenci olarak katılmak istediğim ilgimi çeken çokça kurs vardı. Bence gerek ortamdaki insanlar, gerekse konular bakımından Akademik Bilişim hepimize birçok şey katıyor.
 
-Yazı 2016’daki Akademik Bilişim üzerine olduğu için ufak bir eleştiride bulunmak istiyorum. Bildiğiniz gibi bu etkinlik her sene İNETD ve o etkinliğin yapılacağı üniversite tarafından organize ediliyor. Aydın Adnan Menderes Üniversitesi’nin organizasyonda zayıf kaldığını düşünüyorum. Sınıfların, prizlerin ayarlanması, görevlilerle olan iletişim sıkıntıları gibi birkaç pürüz vardı. Elbette bir şekilde bunların üstesinden gelindi ancak daha iyi hazırlanılabilirdi.
+Yazı 2016’daki Akademik Bilişim üzerine olduğu için ufak bir eleştiride bulunmak istiyorum. Bildiğiniz gibi bu etkinlik her sene [İNETD](http://inetd.org.tr/) ve o etkinliğin yapılacağı üniversite tarafından organize ediliyor. Aydın Adnan Menderes Üniversitesi’nin organizasyonda zayıf kaldığını düşünüyorum. Sınıfların, prizlerin ayarlanması, görevlilerle olan iletişim sıkıntıları gibi birkaç pürüz vardı. Elbette bir şekilde bunların üstesinden gelindi ancak daha iyi hazırlanılabilirdi.
 
 Değinmek istediğim önemli konulardan biri de konferanslar sırasında çıkan, sosyal ağlarda da ses getirmiş bir olay. Siemens’in Bilişim Teknolojileri Altyapısı’ndan sorumlu Reşit İlker Gökhan, Akademik Bilişim konferanslarında Bilgi Teknolojileri Alanında Kariyer Yapmak İçin 10 Neden başlıklı bir sunum yaptı. Sunum sırasında ben de oradaydım. Mizahi bir dil kullanarak sunumuna başlayan İlker Gökhan, sunumun sonunda kullandığı ifadelerle hepimizi şoke etti.
 
